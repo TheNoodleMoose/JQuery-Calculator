@@ -2,16 +2,16 @@
 
 ## File
 
-* [`jquery-calculator-starter`](Unsolved/jquery-calculator.html)
+
 
 ## Instructions
 
-* Create the JavaScript logic necessary to add functionality to the jQuery Calculator.
+* Choose Your First Number
 
-* Your calculator should be able to handle basic mathematical operations like addition, subtraction, multiplication, etc.
+* Choose Your Operator
 
-* You should be making use of the existing buttons.
+* Choose Your Second Number
 
-* You should be making use of the existing placeholders for entering content (i.e. "firstNumber", "operator", "secondNumber", "result").
+* Hitting Clear will erase all other content besides your answer, so you can continue using the answer
 
-* You should have fun and push yourselves! This is a challenge activity—which means, if you get it done, you are a King of jQuery. If you don't, no sweat. The important thing is that you learned at least a FEW things along the way.
+* Hitting Clear Twice will wipe everything and provide a fresh start
